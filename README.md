@@ -1,0 +1,1 @@
+# guia-signals-angular-completa-claude
